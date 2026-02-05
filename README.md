@@ -1,6 +1,6 @@
 # ☕ Java Learning & Portfolio
 
-Hi 👋  
+Hi 👋 I am Shulammite, a tech enthusiast.
 I’m currently learning **Java programming from scratch**, with a strong focus on **fundamentals**, **problem-solving**, and **building real projects**.
 
 This repository serves two purposes:
